@@ -1,0 +1,50 @@
+.icon {
+  position: relative;
+  left: 290px;
+  bottom: 30px;
+  cursor: pointer;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.loginbtncolor {
+  background-color: rgb(99, 219, 221);
+  border: none;
+}
+.loginbtncolor:hover {
+  background-color: rgb(44, 165, 165);
+}
+
+.disp {
+  display: flex;
+  margin-bottom: 10px;
+}
+.user {
+  height: 30px;
+  width: 230px;
+  
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin: 5px 20px;
+  padding: 3px 20px;
+  text-align: center;
+  font-weight: 500;
+  cursor: pointer;
+}
+.company {
+  height: 30px;
+  width: 230px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin: 5px 20px;
+  padding: 3px 20px;
+  text-align: center;
+  font-weight: 500;
+  text-justify: center;
+  cursor: pointer;
+}
+#user{
+  background-color: rgb(217, 222, 222);
+}
+#company{
+  background-color: rgb(217, 222, 222);
+}
